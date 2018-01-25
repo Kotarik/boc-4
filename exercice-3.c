@@ -1,3 +1,12 @@
+/*
+
+Ecrire un programme qui lit la taille N d'un tableau T du type entier, remplit le tableau par des valeurs entrées au clavier et affiche le tableau.
+
+Créer ensuite un tableau T1 contenant les entiers pairs de T et un tableau T2 contenant les entiers impaires de T, et afficher les deux tableaux T1 et T2.
+
+*/
+
+
 #include<stdio.h>
 main()
 {
